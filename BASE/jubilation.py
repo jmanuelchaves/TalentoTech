@@ -9,6 +9,9 @@ else:
     print(f"Ingresa una edad válida, {nombre}.")
     input(int(f"Vuelve a ingresar tu edad"))
 
+#PARA SELECCIONAR TODO UN TEXTO Y PASARLO A COMENTARIO:
+#Ctrl k y después Ctrl C OOOOO Ctrl + }
+
 """edad = int(input("¿Cuál es tu edad? "))
 
 if edad >= 18:
